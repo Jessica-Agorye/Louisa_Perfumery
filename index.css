@@ -1,0 +1,212 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    list-style:none;
+    text-decoration: none;
+}
+
+
+.hero-sec{
+    width:100%;
+    height:600px;
+    display:flex;
+    justify-content:space-around;
+}
+
+
+.box-1{
+    width:45%;
+    height:600px;
+    margin:10px 10px;
+}
+
+.text-cont{
+    padding-top:200px;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.text-cont button{
+    padding:20px;
+    font-size: 18px;
+    font-weight:400;
+    margin-top:20px;
+    background-color: black;
+    color:white;
+}
+
+.text-cont2{
+    padding-top:100px;
+    text-align: center;
+   
+}
+
+
+.box-1 img{
+    width:100%;
+    height:600px;
+    object-fit:fit;
+}
+
+
+.secnd-sec{
+    margin-top:70px;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.carousel{
+    width:80%;
+    height:400px;
+   
+}
+
+.carousel img{
+    height:500px;
+    object-fit: fill;
+    margin-left: 20%;
+}
+
+
+.carousel-sec{
+    margin-top:60px;
+}
+
+
+.brands{
+    display:flex;
+    width:100%;
+    height:80px;
+    margin-top:200px;
+}
+
+
+.brands .fragrance-brand{
+    width:90%;
+    height:50px;
+    border:1px solid black;
+    padding:15px;
+    background-color: black;
+    color:white;
+
+    
+}
+
+.brands .fragrance-brand p{
+    text-align: center;
+}
+
+.brands-2{
+    display:flex;
+    width:100%;
+    height:80px;
+    margin-top:20px;
+   
+}
+
+
+.brands-2 .fragrance-brand{
+    width:90%;
+    height:50px;
+    border:1px solid black;
+    padding:15px;
+    background-color: black;
+    color:white;
+
+}
+
+
+.blog{
+    height:300px;
+    
+}
+
+.blog-content{
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+}
+
+.blog-content h4{
+    margin-left:15px;
+}
+.blog-content p{
+    margin-left:15px;
+    font-size: 16px;
+}
+.blog-section{
+    margin-top:80px;
+}
+
+.blog-section p{
+    font-size:20px;
+    font-weight:bold;
+    
+}
+
+
+.blog img{
+    width:100%;
+    height:300px;
+    padding:20px;
+}
+
+.do-more{
+    width:160px;
+    height:50px;
+    margin-top:120px;
+    margin-left: 45%;
+    background-color: black;
+    
+}
+
+.do-more p{
+    text-align: center;
+    padding:12px;
+    color:#fff;
+}
+
+
+.footer{
+    width:100%;
+    background-color: black;
+    height:500px;
+    margin-top:40px;
+    color:#fff;
+}
+
+.footer .footer-text{
+    color:#fff;
+    padding-left:30px;
+    padding-top:30px;
+    font-size: 26px;
+    font-weight: 800;
+}
+
+.footer-text1{
+    font-size:20px;
+    color: #fff;
+    padding-left:30px;
+    padding-top:30px;
+  
+}
+
+.footer .btm-text{
+    font-size: 50px;
+    color:#fff;
+    
+}
+.footer .address-sec{
+    position:relative;
+    margin-top:30px;
+    margin-left:1000px;
+}
+
+.footer .address-sec p{
+    color:#fff;
+}
+
+.footer .address-sec a{
+    color: #fff;
+}
